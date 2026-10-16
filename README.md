@@ -72,6 +72,12 @@ A experiência também evidencia a importância da transparência na utilizaçã
 
 Este projeto é conceitual e não representa um estabelecimento, serviço ou iniciativa comercial real.
 ```
+## 🖼️ Conteúdo visual
+
+![SPA do Futuro — imagem conceitual gerada por IA](imagens/Spa do Futuro_ Tecnologia e Natureza.png)
+
+Imagem conceitual criada com inteligência artificial generativa.
+
 
 ### Exemplos e Insigths
 
