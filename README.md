@@ -74,10 +74,9 @@ Este projeto é conceitual e não representa um estabelecimento, serviço ou ini
 ```
 ## 🖼️ Conteúdo visual
 
-![SPA do Futuro — imagem conceitual gerada por IA](imagens/Spa do Futuro_ Tecnologia e Natureza.png)
+![SPA do Futuro — imagem conceitual gerada por IA](imagens/spa-do-futuro.png)
 
 Imagem conceitual criada com inteligência artificial generativa.
-
 
 ### Exemplos e Insigths
 
