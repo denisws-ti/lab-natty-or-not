@@ -60,11 +60,6 @@ Imagem conceitual criada com inteligência artificial generativa.
 
 Ouça o podcast sobre como a Inteligência Artificial Generativa pode transformar a experiência dos hóspedes em um SPA.
 
-<audio controls preload="metadata">
-  <source src="midias/podcast_audio.mp3" type="audio/mpeg">
-  Seu navegador não suporta a reprodução de áudio.
-</audio>
-
 [⬇️ Baixar o podcast em MP3](midias/podcast_audio.mp3)
 
 **Arquivo:** `midias/podcast_audio.mp3`
