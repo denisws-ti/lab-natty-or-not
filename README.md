@@ -80,11 +80,13 @@ Imagem conceitual criada com inteligência artificial generativa.
 
 ## 🎙️ Podcast — SPA do Futuro
 
+![SPA do Futuro — podcast conceitual gerada por IA](midias/podcast_audio.mp3)
+
 Podcast conceitual sobre como a Inteligência Artificial Generativa pode transformar a experiência dos hóspedes em um SPA, com atendimento personalizado, bem-estar, tecnologia e inovação.
 
 O conteúdo explora como experiências digitais podem complementar o atendimento humano, respeitando a privacidade e a segurança dos dados.
 
-📄 **Roteiro e proposta do podcast:** [Acessar o projeto do Podcast](exemplos/PODCAST.md)
+
 
 ## 🎬 Vídeo — Apresentação com Avatar Virtual
 
