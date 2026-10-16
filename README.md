@@ -78,14 +78,20 @@ Este projeto é conceitual e não representa um estabelecimento, serviço ou ini
 
 Imagem conceitual criada com inteligência artificial generativa.
 
-### Exemplos e Insigths
+## 🎙️ Podcast — SPA do Futuro
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Podcast conceitual sobre como a Inteligência Artificial Generativa pode transformar a experiência dos hóspedes em um SPA, com atendimento personalizado, bem-estar, tecnologia e inovação.
 
-## Links Interessantes
+O conteúdo explora como experiências digitais podem complementar o atendimento humano, respeitando a privacidade e a segurança dos dados.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+📄 **Roteiro e proposta do podcast:** [Acessar o projeto do Podcast](exemplos/PODCAST.md)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🎬 Vídeo — Apresentação com Avatar Virtual
+
+Proposta de vídeo de apresentação do SPA do Futuro utilizando um avatar virtual, com o objetivo de demonstrar como a IA Generativa pode apoiar a comunicação, a divulgação de serviços e a apresentação de experiências inovadoras.
+
+📄 **Roteiro e proposta do vídeo:** [Acessar o projeto do Vídeo](exemplos/VIDEO.md)
+
+## 🤖 Uso responsável da Inteligência Artificial
+
+Este projeto é conceitual e utiliza recursos de IA Generativa para explorar possibilidades de inovação no setor de bem-estar e hospitalidade. As imagens, os roteiros e as demais peças produzidas com IA devem ser identificados de forma transparente. A tecnologia é apresentada como ferramenta de apoio à criatividade e à experiência humana, e não como substituta do atendimento profissional.
