@@ -49,10 +49,10 @@ Entretanto, alcançar um resultado convincente exige mais do que gerar uma image
 A experiência também evidencia a importância da transparência na utilização da IA, diferenciando conteúdos sintéticos de registros reais.
 
 Este projeto é conceitual e não representa um estabelecimento, serviço ou iniciativa comercial real.
-```
+
 ## 🖼️ Conteúdo visual
 
-![SPA do Futuro — imagem conceitual gerada por IA](imagens/spa-do-futuro.png)
+![SPA do Futuro — imagem conceitual gerada por IA](./imagens/spa-do-futuro.png)
 
 Imagem conceitual criada com inteligência artificial generativa.
 
@@ -60,9 +60,9 @@ Imagem conceitual criada com inteligência artificial generativa.
 
 Ouça o podcast sobre como a Inteligência Artificial Generativa pode transformar a experiência dos hóspedes em um SPA.
 
-[⬇️ Baixar o podcast em MP3](midias/podcast_audio.mp3)
+[⬇️ Baixar o podcast em MP3](./midias/podcast_audio.mp3)
 
-**Arquivo:** `midias/podcast_audio.mp3`
+**Arquivo:** `./midias/podcast_audio.mp3`
 
 **Tema:** Inteligência Artificial Generativa, personalização, bem-estar, inovação e experiência dos hóspedes.
 
@@ -79,11 +79,11 @@ O videopodcast apresenta uma visão conceitual de como a inteligência artificia
 
 **Versão 1 — vídeo com narração, imagens e legendas.**
 
-[Assistir ao videopodcast MP4](midias/spa_do_futuro_v1.mp4)
+[Assistir ao videopodcast MP4](./midias/spa_do_futuro_v1.mp4)
 
 ### 🎧 Podcast original
 
-[Arquivo de áudio MP3](midias/podcast_audio.mp3)
+[Arquivo de áudio MP3](./midias/podcast_audio.mp3)
 
 ### 🧠 Tecnologias e conceitos explorados
 
