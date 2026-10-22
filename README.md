@@ -67,11 +67,43 @@ Ouça o podcast sobre como a Inteligência Artificial Generativa pode transforma
 **Tema:** Inteligência Artificial Generativa, personalização, bem-estar, inovação e experiência dos hóspedes.
 
 
-## 🎬 Vídeo — Apresentação com Avatar Virtual
+## 🎬 SPA do Futuro — Videopodcast | Versão 1
 
-Proposta de vídeo de apresentação do SPA do Futuro utilizando um avatar virtual, com o objetivo de demonstrar como a IA Generativa pode apoiar a comunicação, a divulgação de serviços e a apresentação de experiências inovadoras.
+### Sobre o projeto
 
-📄 **Roteiro e proposta do vídeo:** [Acessar o projeto do Vídeo](exemplos/VIDEO.md)
+Este projeto explora como a Inteligência Artificial Generativa pode transformar a experiência dos hóspedes de um SPA, combinando tecnologia, personalização, bem-estar e atendimento humanizado.
+
+O videopodcast apresenta uma visão conceitual de como a inteligência artificial, a Ciência de Dados e o Big Data podem apoiar experiências mais personalizadas, respeitando a privacidade e a segurança das informações.
+
+### 🎥 Videopodcast
+
+**Versão 1 — vídeo com narração, imagens e legendas.**
+
+[Assistir ao videopodcast MP4](midias/spa_do_futuro_v1.mp4)
+
+### 🎧 Podcast original
+
+[Arquivo de áudio MP3](midias/podcast_audio.mp3)
+
+### 🧠 Tecnologias e conceitos explorados
+
+- Inteligência Artificial Generativa
+- Ciência de Dados e Big Data
+- Personalização da experiência do hóspede
+- Automação e inovação em serviços de bem-estar
+- Privacidade, segurança da informação e valorização do atendimento humano
+
+### 📌 Status do projeto
+
+**Versão 1 concluída:** videopodcast conceitual produzido com apoio de ferramentas de Inteligência Artificial Generativa.
+
+Esta versão utiliza narração, imagens e legendas. Recursos adicionais, como avatar virtual animado, poderão ser explorados em versões futuras.
+
+### ⚠️ Observação
+
+O conteúdo apresenta uma proposta conceitual e não representa a implantação de um sistema real de IA no SPA.
+
+Projeto desenvolvido como parte do desafio educacional da DIO sobre Inteligência Artificial Generativa.
 
 ## 🤖 Uso responsável da Inteligência Artificial
 
